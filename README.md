@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+<a href="https://chipped-scorpion-7cc.notion.site/a96340381101479cbd8d51ae2ec3a846?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-white?style=flat&logo=notion&logoColor=000000"/></a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=64542&show_icons=true&theme=radical)
 <!--
 **64542/64542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
